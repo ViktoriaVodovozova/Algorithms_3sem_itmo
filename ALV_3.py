@@ -1,3 +1,4 @@
+# Решение задачи ALV (для PR)
 import sys
 sys.setrecursionlimit(300000)
 input = sys.stdin.readline
